@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clipc\\source\\repos\\WebScrupperAPI\\WebScrupperAPI.csproj": {}
+    "D:\\WebScrupperAPI\\WebScrupperAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clipc\\source\\repos\\WebScrupperAPI\\WebScrupperAPI.csproj": {
+    "D:\\WebScrupperAPI\\WebScrupperAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clipc\\source\\repos\\WebScrupperAPI\\WebScrupperAPI.csproj",
+        "projectUniqueName": "D:\\WebScrupperAPI\\WebScrupperAPI.csproj",
         "projectName": "WebScrupperAPI",
-        "projectPath": "C:\\Users\\clipc\\source\\repos\\WebScrupperAPI\\WebScrupperAPI.csproj",
+        "projectPath": "D:\\WebScrupperAPI\\WebScrupperAPI.csproj",
         "packagesPath": "C:\\Users\\clipc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clipc\\source\\repos\\WebScrupperAPI\\obj\\",
+        "outputPath": "D:\\WebScrupperAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

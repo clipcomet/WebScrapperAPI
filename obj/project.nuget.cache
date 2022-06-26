@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UxUmQb6Kuxj54Z6XsnjsZu1IugaKAYkNnZc7aOersH6z2eJLXH1Ni3FTTZJ0NhwYjiD1T1Vv35v3bnqFxOEoiQ==",
+  "dgSpecHash": "+GABXOTILGEBjKqJ6OKbBH+u6On3P4ahdD2uP3sfANqy1/zYHciv7TNoFt2RF5QjD+M78sexF6n3LpsjgR3xHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clipc\\source\\repos\\WebScrupperAPI\\WebScrupperAPI.csproj",
+  "projectFilePath": "D:\\WebScrupperAPI\\WebScrupperAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clipc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\clipc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
