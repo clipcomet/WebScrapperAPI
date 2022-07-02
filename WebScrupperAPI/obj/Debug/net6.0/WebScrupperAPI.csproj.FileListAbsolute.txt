@@ -25,3 +25,4 @@ D:\WebScrupperAPI\WebScrupperAPI\obj\Debug\net6.0\refint\WebScrupperAPI.dll
 D:\WebScrupperAPI\WebScrupperAPI\obj\Debug\net6.0\WebScrupperAPI.pdb
 D:\WebScrupperAPI\WebScrupperAPI\obj\Debug\net6.0\WebScrupperAPI.genruntimeconfig.cache
 D:\WebScrupperAPI\WebScrupperAPI\obj\Debug\net6.0\ref\WebScrupperAPI.dll
+D:\WebScrupperAPI\WebScrupperAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

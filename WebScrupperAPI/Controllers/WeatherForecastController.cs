@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using WebScrupperAPI.Model;
 
 namespace WebScrupperAPI.Controllers
 {
