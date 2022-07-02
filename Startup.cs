@@ -29,10 +29,7 @@ namespace WebScrupperAPI
         {
 
             services.AddControllers();
-            services.AddHttpsRedirection(options =>
-            {
-                options.HttpsPort = 5001;
-            });
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebScrupperAPI", Version = "v1" });
@@ -53,7 +50,6 @@ namespace WebScrupperAPI
             {
                 app.UseHsts();
             }
-            app.UseHttpsRedirection();
 
             app.UseRouting();
 
