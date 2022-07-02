@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -32,6 +33,11 @@ namespace WebScrupperAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebScrupperAPI", Version = "v1" });
             });
+            services.Configure<ForwardedHeadersOptions>(options =>
+            {
+                options.ForwardedHeaders =
+                    ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,9 +53,6 @@ namespace WebScrupperAPI
             {
                 app.UseHsts();
             }
-            app.UseHttpsRedirection();
-
-
             app.UseHttpsRedirection();
 
             app.UseRouting();
