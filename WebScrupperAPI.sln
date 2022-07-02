@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrupperAPI", "WebScrupperAPI\WebScrupperAPI.csproj", "{EAC35A0D-136B-441B-9C3F-7B94704F9053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC35A0D-136B-441B-9C3F-7B94704F9053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC35A0D-136B-441B-9C3F-7B94704F9053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC35A0D-136B-441B-9C3F-7B94704F9053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC35A0D-136B-441B-9C3F-7B94704F9053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D099F636-50E8-4280-9063-A5738775A979}
+	EndGlobalSection
+EndGlobal
