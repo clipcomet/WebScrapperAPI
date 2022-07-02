@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+GABXOTILGEBjKqJ6OKbBH+u6On3P4ahdD2uP3sfANqy1/zYHciv7TNoFt2RF5QjD+M78sexF6n3LpsjgR3xHQ==",
+  "dgSpecHash": "AYqPTYpccn7KU0Io/VL1yz0gpGkx2Ry9CsC0wuExiwRzLgAuDadFYe6wHcNYSAD2B/VbG/8DGxooxPWQJpBeFw==",
   "success": true,
   "projectFilePath": "D:\\WebScrupperAPI\\WebScrupperAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clipc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\clipc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\clipc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\clipc\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\clipc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\clipc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

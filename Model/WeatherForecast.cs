@@ -1,6 +1,6 @@
 using System;
 
-namespace WebScrupperAPI
+namespace WebScrupperAPI.Model
 {
     public class WeatherForecast
     {

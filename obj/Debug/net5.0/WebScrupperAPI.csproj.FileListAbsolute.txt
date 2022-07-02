@@ -5,7 +5,6 @@ D:\WebScrupperAPI\bin\Debug\net5.0\WebScrupperAPI.deps.json
 D:\WebScrupperAPI\bin\Debug\net5.0\WebScrupperAPI.runtimeconfig.json
 D:\WebScrupperAPI\bin\Debug\net5.0\WebScrupperAPI.runtimeconfig.dev.json
 D:\WebScrupperAPI\bin\Debug\net5.0\WebScrupperAPI.dll
-D:\WebScrupperAPI\bin\Debug\net5.0\ref\WebScrupperAPI.dll
 D:\WebScrupperAPI\bin\Debug\net5.0\WebScrupperAPI.pdb
 D:\WebScrupperAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
 D:\WebScrupperAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -19,7 +18,6 @@ D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.csproj.CoreCompileInputs.cache
 D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\WebScrupperAPI\obj\Debug\net5.0\staticwebassets\WebScrupperAPI.StaticWebAssets.Manifest.cache
-D:\WebScrupperAPI\obj\Debug\net5.0\staticwebassets\WebScrupperAPI.StaticWebAssets.xml
 D:\WebScrupperAPI\obj\Debug\net5.0\scopedcss\bundle\WebScrupperAPI.styles.css
 D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.RazorTargetAssemblyInfo.cache
 D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.csproj.CopyComplete
@@ -27,3 +25,5 @@ D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.dll
 D:\WebScrupperAPI\obj\Debug\net5.0\ref\WebScrupperAPI.dll
 D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.pdb
 D:\WebScrupperAPI\obj\Debug\net5.0\WebScrupperAPI.genruntimeconfig.cache
+D:\WebScrupperAPI\obj\Debug\net5.0\refint\WebScrupperAPI.dll
+D:\WebScrupperAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
